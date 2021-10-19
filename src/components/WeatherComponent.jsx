@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import LogoImg from "../assets/icons/perfect-day.svg";
 import sunset from "../assets/icons/temp.svg";
 import sunrise from "../assets/icons/temp.svg";
 import humidity from "../assets/icons/humidity.svg";
